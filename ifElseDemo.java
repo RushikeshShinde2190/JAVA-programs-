@@ -1,4 +1,5 @@
- public static void ifElseDemo() {
+public class ifElseDemo{
+public static void main(String[] args) {
         System.out.println("\n--- If-Else ---");
         int a = 45;
         // to check a is even or odd
@@ -8,3 +9,4 @@
             System.out.println("a is odd");
         }
     }
+}
