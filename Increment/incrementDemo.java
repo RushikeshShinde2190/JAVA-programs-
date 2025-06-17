@@ -1,4 +1,5 @@
-public static void incrementDemo() {
+public class incrementDemo{
+public static void main(String[] args) {
         System.out.println("\n--- Increment/Decrement ---");
         int i = 5;
         i++;
@@ -7,3 +8,4 @@ public static void incrementDemo() {
         i--;
         System.out.println("The value of i after incrementing is: " + i);
     }
+}
