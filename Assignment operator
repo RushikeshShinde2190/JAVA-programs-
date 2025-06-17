@@ -1,4 +1,5 @@
-public static void assignmentDemo() {
+public class AssignmentDemo{
+public static void main(String[] args) {
         System.out.println("\n--- Assignment Operators ---");
         int a = 10;
         int b = 20;
@@ -9,3 +10,4 @@ public static void assignmentDemo() {
         c %= 2;
         System.out.println("The value of c is: " + c);
     }
+}
