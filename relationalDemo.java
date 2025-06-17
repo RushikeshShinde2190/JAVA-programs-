@@ -1,4 +1,5 @@
-  public static void relationalDemo() {
+public class relationalDemo{
+public static void main(String[] args) {
         System.out.println("\n--- Relational Operators ---");
         int a = 100;
         int b = 20;
@@ -9,3 +10,4 @@
             System.out.println("a is greater than b");
         }
     }
+}
