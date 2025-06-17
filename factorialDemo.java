@@ -1,4 +1,5 @@
- public static void factorialDemo() {
+public class factorialDemo{
+public static void main(String[] args) {
         System.out.println("\n--- Factorial (Iterative) ---");
         int result = factorial(5);
         System.out.println("Factorial of 5 is: " + result);
@@ -11,3 +12,4 @@
         }
         return fact;
     }
+}
